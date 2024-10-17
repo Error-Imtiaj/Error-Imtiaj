@@ -7,12 +7,13 @@
 - Dart
 - Python
 
-### 🔧 GitHub Stats
+### 📊 GitHub Stats and Most Used Languages
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Error-Imtiaj&show_icons=true&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997)
-
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Top Languages" width="34%" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Error-Imtiaj&show_icons=true&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Your GitHub Stats" width="45%" />
+  
+</div>
 
 ---
 
