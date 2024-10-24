@@ -21,6 +21,6 @@
 
 - Email: imtiaj0044@gmail.com
 - [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-imtiaj-hossen-240803286/)
-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/digimarket01)  
+- [![Fiverr Hire](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/digimarket01)  
 
 ---
