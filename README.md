@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> I'm a Part-time and full mobile application developer specializing in [Dart, Flutter, GetX State Management].
+> I'm a Part-time mobile application developer specializing in [Dart, Flutter, GetX, Bloc, Firebase].
 
 ### 🚀 Skills
 - Flutter
