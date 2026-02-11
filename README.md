@@ -1,26 +1,47 @@
 ## Hi there 👋
 
-> I'm a Part-time mobile application developer specializing in [Dart, Flutter, GetX, Bloc, Firebase].
+### 👨‍💻 About Me
+I'm a **Part-time Mobile Application Developer** specializing in:
+
+`Dart` • `Flutter` • `GetX` • `Bloc` • `Firebase`
+
+---
 
 ### 🚀 Skills
-- Flutter
-- Dart
-- Python
 
-### 📊 GitHub Stats and Most Used Languages
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Top Languages" width="34%" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Error-Imtiaj&show_icons=true&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Your GitHub Stats" width="45%" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&theme=default" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Error-Imtiaj&show_icons=true&theme=default" width="45%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:imtiaj0044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   
-</div>
+  <a href="https://www.linkedin.com/in/mohammad-imtiaj-hossen-240803286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.fiverr.com/digimarket01" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📫 Reach me at
-
-- Email: imtiaj0044@gmail.com
-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-imtiaj-hossen-240803286/)
-- [![Fiverr Hire](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/digimarket01)  
-
----
+⭐️ From [Error-Imtiaj](https://github.com/Error-Imtiaj)
