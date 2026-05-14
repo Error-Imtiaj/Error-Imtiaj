@@ -20,10 +20,10 @@ I'm a **Part-time Mobile Application Developer** specializing in:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&theme=default" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Error-Imtiaj&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Error-Imtiaj&layout=compact&theme=tokyonight" width="35%" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Error-Imtiaj&show_icons=true&theme=tokyonight" width="45%" />
 </p>
-
 ---
 
 ### 📫 Connect With Me
