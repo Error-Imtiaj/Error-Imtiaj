@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👨‍💻 About Me
-I'm a **Part-time Mobile Application Developer** specializing in:
+I'm a **Full-time Mobile Application Developer** specializing in:
 
 `Dart` • `Flutter` • `GetX` • `Bloc` • `Firebase`
 
